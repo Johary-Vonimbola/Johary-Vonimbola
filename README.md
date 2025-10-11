@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johary-vonimbola&label=Profile%20views&color=0e75b6&style=flat" alt="johary-vonimbola" /> </p>
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning **OWL**
 
 - 📫 How to reach me **joharyvonimbola@gmail.com**
 
