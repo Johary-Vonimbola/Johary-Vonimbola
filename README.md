@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **joharyvonimbola@gmail.com**
 
-- ⚡ Fun fact **_._**
+- ⚡ Fun fact **_.._**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
