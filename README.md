@@ -22,35 +22,53 @@ Basé à Madagascar 🇲🇬 — je conçois des systèmes performants et scalab
 ### 🎓 Projets majeurs
 
 #### 🚗 Plateforme Mobility-as-a-Service (Mémoire de fin d’étude)
-- Développement d’une **plateforme logistique B2B** avec module chauffeur  
-- Système complet : **réservations, planification, tarification dynamique**  
-- Intégration **Google Maps API + Keycloak (SSO / IAM)**  
-- Architecture basée sur **Odoo (Python + PostgreSQL)**  
-- 📊 Dashboard KPI & optimisation des trajets en temps réel  
-
----
+- Plateforme logistique B2B avec **optimisation des trajets**
+- Réservations, tarification dynamique & dashboard KPI
+- Intégration **Google Maps API + Keycloak (SSO)**
+- Architecture **Odoo (Python + PostgreSQL)**
 
 #### 🛒 Plateforme E-commerce (Projet Master)
-- Application **multi-rôles** (admin, boutique, client)  
-- Gestion : produits, stock, commandes, paiements (Stripe)  
-- Authentification sécurisée avec **JWT**  
-- Dashboard avec **suivi financier et analytics**  
-- 🌐 Stack : Angular + Express + MongoDB  
-
----
-
-### 🧠 Ce sur quoi je travaille actuellement
-- 🌱 Applications scalables avec **Angular, Node.js, Spring Boot**
-- 🔐 Systèmes d’authentification (**Keycloak, JWT**)
-- 📊 Visualisation de données & dashboards métiers
+- Application multi-rôles (admin / boutique / client)
+- Gestion stock, commandes & paiement **Stripe**
+- Authentification sécurisée avec **JWT**
+- Stack : **Angular + Express + MongoDB**
 
 ---
 
 ### 🛠️ Stack technique
-- **Frontend :** Angular, HTML, CSS, JavaScript, SCSS  
-- **Backend :** Node.js (Express), Java (Spring Boot), Python (Odoo)  
-- **Base de données :** PostgreSQL, MongoDB, MySQL  
-- **Outils :** Docker, Git, Firebase  
+
+#### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+</p>
+
+#### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</p>
+
+#### Base de données
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
+#### Outils
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
