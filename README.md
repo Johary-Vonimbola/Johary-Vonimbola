@@ -88,7 +88,8 @@ Basé à Madagascar 🇲🇬 — je conçois des systèmes performants et scalab
 ### 📫 Me contacter
 - 📧 joharyvonimbola@gmail.com  
 - 💼 LinkedIn : https://www.linkedin.com/in/johary-vonimbola-claudis  
-- 💻 GitHub : https://github.com/Johary-Vonimbola  
+- 💻 GitHub : https://github.com/Johary-Vonimbola
+- 🌐 Portfolio : https://johary-portfolio.vercel.app
 
 ---
 
