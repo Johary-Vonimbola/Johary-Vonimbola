@@ -10,6 +10,13 @@ Basé à Madagascar 🇲🇬 — je conçois des systèmes performants et scalab
 </p>
 
 ---
+### 📫 Me contacter
+- 📧 joharyvonimbola@gmail.com  
+- 💼 LinkedIn : https://www.linkedin.com/in/johary-vonimbola-claudis  
+- 💻 GitHub : https://github.com/Johary-Vonimbola
+- 🌐 Portfolio : https://johary-portfolio.vercel.app
+
+---
 
 ### 🚀 À propos de moi
 - 💻 Développeur Fullstack orienté **performance et logique métier**
@@ -82,14 +89,6 @@ Basé à Madagascar 🇲🇬 — je conçois des systèmes performants et scalab
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
-
----
-
-### 📫 Me contacter
-- 📧 joharyvonimbola@gmail.com  
-- 💼 LinkedIn : https://www.linkedin.com/in/johary-vonimbola-claudis  
-- 💻 GitHub : https://github.com/Johary-Vonimbola
-- 🌐 Portfolio : https://johary-portfolio.vercel.app
 
 ---
 
